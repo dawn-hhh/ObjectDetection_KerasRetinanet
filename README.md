@@ -11,8 +11,8 @@ More infomation can be found at the follow repository: https://github.com/fizyr/
     4. Model testing: modify input folder name and output folder name, customize detecting threshold and etc., model testing
    
 
-    Things for noticing during customization
-    1.. When customize anchor box aspecrt ratios, also modify the following file: keras_retinanet/utils/anchors.py
+Things for noticing during customization
+1. When customize anchor box aspecrt ratios, also modify the following file: keras_retinanet/utils/anchors.py
 
 
 
